@@ -1,0 +1,10 @@
+sentence-trasformer==2.2.2
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_generativeai
+langchain_experimental
+-e .
